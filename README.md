@@ -72,12 +72,37 @@ Vyrtral — Développeur web
 
 <div align="center">
 
-| Projet | Ce que c'est | Stack |
-|---|---|---|
-| **[Plume](https://github.com/Vyrtral/Plume)** | Correcteur et traducteur disponible dans toutes les applications, par raccourci clavier ou clic droit | Rust · Tauri · React |
-| **[Image-AI](https://github.com/Vyrtral/Image-AI)** | Édition d'image par instruction : on décrit le changement, le décor reste intact | Next.js · TypeScript |
-| **[BOT-Discord-Gestion](https://github.com/Vyrtral/BOT-Discord-Gestion)** | Bot de modération et de gestion de serveur | Node.js · SQLite |
-| **[BOT-Discord-Manager](https://github.com/Vyrtral/BOT-Discord-Manager)** | Bot Discord multi-fonctions, déployé en Docker | Node.js · Docker |
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vyrtral&theme=github_dark"
+  width="96%"
+  alt="GitHub profile details"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vyrtral&theme=github_dark"
+  height="185"
+  alt="Répartition des langages par dépôt"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vyrtral&theme=github_dark"
+  height="185"
+  alt="Langages les plus utilisés en commits"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vyrtral&theme=github_dark"
+  height="185"
+  alt="Statistiques GitHub"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vyrtral&theme=github_dark&utcOffset=2"
+  height="185"
+  alt="Heures de commit les plus productives"
+/>
 
 </div>
 
