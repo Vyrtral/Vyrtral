@@ -1,0 +1,28 @@
+<svg width="820" height="108" viewBox="0 0 820 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="shadow" x="-20%" y="-50%" width="140%" height="210%">
+    <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity=".26"/>
+  </filter>
+</defs>
+<g filter="url(#shadow)">
+  <path d="M43 29 L191 18 L215 33 L205 83 L49 91 L31 65 Z" fill="#4E8BAC"/>
+  <path d="M180 24 L758 17 L777 72 L744 93 L192 86 L168 57 Z" fill="#20313A"/>
+  <path d="M247 11 L330 8 L338 35 L254 40 Z" fill="#D7DEE2" opacity=".88"/>
+</g>
+<g opacity=".75">
+  <rect x="72" y="40" width="3" height="27" fill="#E9EEF1"/>
+  <rect x="80" y="40" width="6" height="27" fill="#E9EEF1"/>
+  <rect x="91" y="40" width="2" height="27" fill="#E9EEF1"/>
+  <rect x="98" y="40" width="5" height="27" fill="#E9EEF1"/>
+  <rect x="108" y="40" width="3" height="27" fill="#E9EEF1"/>
+</g>
+<text x="137" y="65" text-anchor="middle"
+      font-family="Consolas, Menlo, monospace" font-size="16"
+      font-weight="700" letter-spacing="3" fill="#F7F9FA">03</text>
+<text x="478" y="65" text-anchor="middle"
+      font-family="Georgia, serif" font-size="29"
+      font-weight="700" letter-spacing="2" fill="#F7F9FA">GITHUB</text>
+<text x="700" y="82" text-anchor="middle"
+      font-family="Consolas, Menlo, monospace" font-size="10"
+      letter-spacing="2" fill="#9DB7C6">VYRT / 26</text>
+</svg>
