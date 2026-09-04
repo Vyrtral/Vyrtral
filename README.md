@@ -72,45 +72,12 @@ Vyrtral — Développeur web
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vyrtral&theme=github_dark"
-  width="96%"
-  alt="GitHub profile details"
-/>
-
-<br/><br/>
-
-<!--
-Language summary cards are intentionally hidden for now.
-They only become useful once public code repositories contain detectable languages.
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vyrtral&theme=github_dark"
-  height="180"
-  alt="Repositories per language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vyrtral&theme=github_dark"
-  height="180"
-  alt="Most commit language"
-/>
-
-<br/><br/>
--->
-
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vyrtral&theme=github_dark"
-  height="180"
-  alt="GitHub stats"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Vyrtral&hide_border=true&border_radius=7&background=0D1117&stroke=30363D&ring=4E8BAC&fire=79AFCB&currStreakNum=F0F3F5&sideNums=F0F3F5&currStreakLabel=79AFCB&sideLabels=9BA8B0&dates=7D8990"
-  height="180"
-  alt="GitHub streak"
-/>
+| Projet | Ce que c'est | Stack |
+|---|---|---|
+| **[Plume](https://github.com/Vyrtral/Plume)** | Correcteur et traducteur disponible dans toutes les applications, par raccourci clavier ou clic droit | Rust · Tauri · React |
+| **[Image-AI](https://github.com/Vyrtral/Image-AI)** | Édition d'image par instruction : on décrit le changement, le décor reste intact | Next.js · TypeScript |
+| **[BOT-Discord-Gestion](https://github.com/Vyrtral/BOT-Discord-Gestion)** | Bot de modération et de gestion de serveur | Node.js · SQLite |
+| **[BOT-Discord-Manager](https://github.com/Vyrtral/BOT-Discord-Manager)** | Bot Discord multi-fonctions, déployé en Docker | Node.js · Docker |
 
 </div>
 
@@ -127,6 +94,9 @@ They only become useful once public code repositories contain detectable languag
 <br/>
 
 <p align="center">
+  <a href="https://kentra.fr">
+    <img src="https://img.shields.io/badge/KENTRA.FR-20313A?style=for-the-badge&logoColor=F7F9FA" alt="Kentra" />
+  </a>
   <a href="https://github.com/Vyrtral?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW_REPOSITORIES-20313A?style=for-the-badge&logo=github&logoColor=F7F9FA" alt="View repositories" />
   </a>
